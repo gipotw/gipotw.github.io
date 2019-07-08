@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.gipo.tw/zh-cn/partners/</loc>
+    <lastmod>2019-06-29T14:57:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://www.gipo.tw/zh-tw/partners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.gipo.tw/en/partners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://www.gipo.tw/zh-cn/partners/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.gipo.tw/zh-cn/about/</loc>
     <lastmod>2019-01-18T14:57:42+08:00</lastmod>
     <xhtml:link

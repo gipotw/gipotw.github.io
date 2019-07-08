@@ -5,6 +5,21 @@
   <url>
     <loc>http://www.gipo.tw/zh-tw/partners/</loc>
     <lastmod>2019-06-29T14:57:42+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://www.gipo.tw/zh-cn/partners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.gipo.tw/en/partners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://www.gipo.tw/zh-tw/partners/"
+                />
   </url>
   
   <url>

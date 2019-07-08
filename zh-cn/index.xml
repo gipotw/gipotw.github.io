@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>合作夥伴</title>
+      <link>http://www.gipo.tw/zh-cn/partners/</link>
+      <pubDate>Sat, 29 Jun 2019 14:57:42 +0800</pubDate>
+      
+      <guid>http://www.gipo.tw/zh-cn/partners/</guid>
+      <description>           ulli{ margin: 0; padding: 0; list-style: none; display: inline-block; } ullia:link { display: block; margin-bottom: 15px; text-align: center; } ullia:hover { box-shadow: 0 1px 8px rgba(50,50,93,.2); } .partner{ max-width: 280px; width: 100%; } @media only screen and (min-width: 1300px) { .partner{ max-width: 250px; width: 100%; } }  </description>
+    </item>
+    
+    <item>
       <title>关于我们</title>
       <link>http://www.gipo.tw/zh-cn/about/</link>
       <pubDate>Fri, 18 Jan 2019 14:57:42 +0800</pubDate>
